@@ -1,0 +1,6 @@
+Fortune 500 Report for 
+2017Revenue
+Min: null Max: null Avg: null StD: 
+nullProfit
+Min: null Max: null Avg: null StD: 
+null
